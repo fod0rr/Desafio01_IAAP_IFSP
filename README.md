@@ -1,8 +1,5 @@
 # Projeto Vinheria Edupe: Monitor Ambiental para Vinhos
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Tinkercad](https://img.shields.io/badge/Tinkercad-1262D4?style=for-the-badge&logo=tinkercad&logoColor=white)
-
 ## Descrição
 
 Este projeto foi desenvolvido como parte do **Desafio 01** da matéria de *Introdução à Automação de Ambientes e Processos*. O objetivo é criar um sistema de monitoramento para uma vinheria, garantindo que as condições de armazenamento dos vinhos (temperatura, umidade e luminosidade) estejam sempre dentro dos padrões ideais para preservar a sua qualidade.
